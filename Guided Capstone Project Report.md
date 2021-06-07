@@ -1,12 +1,12 @@
 # Recommendations for Big Mountain Resort
 
-##// Project Context
+## // Project Context
 
 We built models using ski resort data and state-related data to estimate suggested price with its current facilities and predict ticket price and revenue changes under different scenarios to help refine Big Mountain Resort’s investment strategy to best capitalize on its facilities.
 
 Compared to other resorts in our dataset, Big Mountain Resort is currently undercharging. The modelled price is $96.84, and the actual price is $81.00. 
 
-##// Scenarios & Recommendations
+## // Scenarios & Recommendations
 
 From the initial model results, scenario 3 shows the highest increase in revenue of $16,156,051. Details by scenarios listed below:
 
@@ -40,7 +40,7 @@ Over the season, this could be expected to amount to $16,156,051
 
 This scenario makes no difference
 
-##// Next Steps
+## // Next Steps
 
 Communicate the insight about the Big Mountain Resort undercharging and understand (if there is) the intentions and strategy behind.
 Estimate profit changes by incorporating information about operating costs saved from closing runs and investment required for increasing vertical drop and snow making cover.
